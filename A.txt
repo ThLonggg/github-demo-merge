@@ -1,3 +1,7 @@
 Nội dung file A
 
+<<<<<<< HEAD
 Sửa bởi Master
+=======
+Sửa bởi beta
+>>>>>>> beta
